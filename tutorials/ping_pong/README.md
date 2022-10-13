@@ -1,2 +1,0 @@
-# fax-bot
-FAX

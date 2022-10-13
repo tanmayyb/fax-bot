@@ -19,7 +19,7 @@ client.on("ready", () =>{
 client.on("messageCreate", (message) => {
     console.log(`message is created -> ${message}`);
     if(message.content=="fax"){
-        message.reply("fax fax fax")
+        message.reply("fax fax")
     }
 })
 
